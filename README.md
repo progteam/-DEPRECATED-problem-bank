@@ -63,6 +63,4 @@ Problem Bank
 1. **Problem Solving Paradigms**
    1. Divide and Conquer
    2. Greedy Algorithms
-   3. Dynamic Programming
-      1. Tabulation
-      2. memoization
+   3. [Dynamic Programming](https://github.com/progteam/problem-bank/blob/master/dp.md)
