@@ -7,7 +7,7 @@ going to help.
 
 
 DP problems can be solved recursively or iteratively. The iterative solutions
-usually have a performance advantage, however, the overhead of the recursive
+usually have performance advantages, however, the overhead of the recursive
 approach is often not significant, and code tends to be easier to write.
 
 ### Medium to Hard
