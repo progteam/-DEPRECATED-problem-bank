@@ -50,7 +50,7 @@ separates on spaces.
 [split() Documentation](https://docs.python.org/3/library/stdtypes.html#str.split)
 
 ***
-
+# sys.stdin
 ```python
 from sys import stdin
 ```
