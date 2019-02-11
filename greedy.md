@@ -5,9 +5,11 @@ is fast, however, it may not always yield the correct result. When solving
 those problems, we need to convince ourselves the correctness of the greedy
 algorithms.
 
+### Medium
+- [Zig Zag Nametag](https://open.kattis.com/problems/zigzag)
+
 ### Medium to Hard
 - [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned)
 - [Financial Planning](https://open.kattis.com/problems/financialplanning)
 - [Saving the Universe](https://open.kattis.com/problems/savinguniverse)
 - [Tomography](https://open.kattis.com/problems/tomography)
-- [Zig Zag Nametag](https://open.kattis.com/problems/zigzag)
