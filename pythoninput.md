@@ -1,4 +1,6 @@
 Two main methods for taking in input with Python 3:
+- [input](https://github.com/progteam/problem-bank/blob/master/pythoninput.md#input)
+- [sys.stdin](https://github.com/progteam/problem-bank/blob/master/pythoninput.md#sysstdin)
 ***
 
 ```python
