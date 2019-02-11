@@ -1,9 +1,10 @@
 Greedy Algorithms
 =================
 Here are some problems can be solved using a greedy strategy. A greedy approach
-is fast, however, it may not always yield the correct result. When solving
-those problems, we need to convince ourselves the correctness of the greedy
-algorithms.
+takes the best action immediately at each step; thus it is fast. However, it
+may not always yield the correct result since the algorithm can be
+"short-sighted" and produce a suboptimal answer. When solving those problems,
+we need to convince ourselves the correctness of the greedy algorithms.
 
 ### Medium
 - [Zig Zag Nametag](https://open.kattis.com/problems/zigzag)
