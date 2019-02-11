@@ -6,7 +6,7 @@ about the recurrence relation: how is knowing the results of solved subproblems
 going to help.
 
 
-DP problems can be solved recursively or iteratively. The iterative solutoins
+DP problems can be solved recursively or iteratively. The iterative solutions
 usually have a performance advantage, however, the overhead of the recursive
 approach is often not significant, and code tends to be easier to write.
 
