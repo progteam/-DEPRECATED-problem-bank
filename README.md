@@ -13,7 +13,7 @@ Problem Bank
 
    1. Taking in input in multiple languages
       1. C++
-      2. [Python](https://github.com/Samwest5/problem-bank/blob/master/pythoninput.md)
+      2. [Python](https://github.com/progteam/problem-bank/blob/master/pythoninput.md)
       3. Java
    1. Common pitfalls in output
       1. Debugging statements
