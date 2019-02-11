@@ -29,7 +29,7 @@ b = float(input())
 [input() Documentation](https://docs.python.org/3/library/functions.html#input)
 
 In some cases it may be useful to separate the line of input based on a delimiter 
-such as ' ' or ','
+such as ` ` or `,`
 
 In Python we can do that with:
 
