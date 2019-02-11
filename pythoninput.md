@@ -4,7 +4,7 @@ Two main methods for taking in input with Python 3:
 ***
 
 ```python
-input()
+## input()
 ```
 
 Returns line read from input after being converted to a string
