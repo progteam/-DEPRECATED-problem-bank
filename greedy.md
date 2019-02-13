@@ -6,6 +6,9 @@ may not always yield the correct result since the algorithm can be
 "short-sighted" and produce a suboptimal answer. When solving those problems,
 we need to convince ourselves the correctness of the greedy algorithms.
 
+# Easy
+- [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin)
+
 ### Medium
 - [Zig Zag Nametag](https://open.kattis.com/problems/zigzag)
 
