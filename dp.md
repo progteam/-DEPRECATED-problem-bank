@@ -11,6 +11,7 @@ usually have performance advantages, however, the overhead of the recursive
 approach is often not significant, and code tends to be easier to write.
 
 ### Medium to Hard
+- [Balanced Diet](https://open.kattis.com/problems/balanceddiet)
 - [Card Magic](https://open.kattis.com/problems/cardmagic)
 - [Farey Sequence Length](https://open.kattis.com/problems/farey)
 - [Good Coalition](https://open.kattis.com/problems/goodcoalition)
