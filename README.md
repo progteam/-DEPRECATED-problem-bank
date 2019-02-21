@@ -20,6 +20,7 @@ Problem Bank
    1. Using Linux to mimic online Judges
       1. A.out > input.in
    1. C++ - cin/cout v C - printf/scan
+   1. [Implementation](https://github.com/progteam/problem-bank/blob/master/implementation.md)
 1. **Linear Data Structures**
    1. Static Arrays
       1. When we know max size
