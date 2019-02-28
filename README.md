@@ -9,7 +9,6 @@ Problem Bank
 	 		3. Big O
 1. **Reading in input**
 
-	[Problems](https://github.com/progteam/problem-bank/blob/master/input.md)
 
    1. Taking in input in multiple languages
       1. C++
